@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: "League Spartan", sans-serif;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+}
+.btn-purple {
+    background-color: #5300b7;
+    border: solid #5300b7;
+    color: #fff;
+}
+.btn-purple:hover {
+    background-color: #fff;
+    border: solid #5300b7;
+}
+.hero-section {
+  min-height: 85vh;
+  display: flex;
+  align-items: center;
+}
+.footer {
+  background-color: #000;
+  color: #fff;
+  padding: 60px 0 30px;
+}
+.footer a {
+  color: #fff;
+  text-decoration: none;
+}
+.footer a:hover {
+  text-decoration: underline;
+}
+.footer .social-icon {
+  background-color: #00cfff;
+  color: #000;
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  margin-right: 10px;
+  font-size: 1.2rem;
+}
+.footer-bottom {
+  border-top: 1px solid #222;
+  padding-top: 20px;
+  margin-top: 30px;
+  font-size: 0.9rem;
+}
+.footer .brand span {
+  color: #a64ef4;
+}
