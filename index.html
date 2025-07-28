@@ -29,6 +29,20 @@
       h1 {
         font-family: "Montserrat", sans-serif;
       }
+      .btn-purple {
+        background-color: #5300b7;
+        border: solid #5300b7;
+        color: #fff;
+      }
+      .btn-purple:hover {
+        background-color: #fff;
+        border: solid #5300b7;
+      }
+      .hero-section {
+        min-height: 85vh;
+        display: flex;
+        align-items: center;
+      }
     </style>
   </head>
   <body>
@@ -73,6 +87,28 @@
         </div>
       </div>
     </nav>
+
+    <!-- Hero Section -->
+    <section class="hero-section">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-6">
+            <p class="text-uppercase text-muted fw-bold">Welcome</p>
+            <h1 class="display-5 fw-bold mb-4">
+              You want to organize<br />
+              party of your life?
+            </h1>
+            <p class="text-secondary mb-4">
+              Aenean a est magna. Aliquam a vestibulum enim. In ipsum enim,
+              tempor quis elementum fringilla, mollis eu mauris.
+            </p>
+            <a href="#" class="btn btn-purple px-4 py-2 rounded-pill"
+              >About Us &#8594;</a
+            >
+          </div>
+        </div>
+      </div>
+    </section>
   </body>
   <script
     src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
