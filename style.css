@@ -7,6 +7,17 @@ body{
     font-family: "League Spartan", sans-serif;
 }
 
+.navbar{
+    position: fixed;
+    background-color: #fff;
+    width: 100vw;
+    padding-left: 5rem;
+}
+
+.navbar a:hover{
+    color: #5300b7;
+}
+
 h1 {
     font-family: "Montserrat", sans-serif;
 }
@@ -20,9 +31,14 @@ h1 {
     border: solid #5300b7;
 }
 .hero-section {
-  min-height: 85vh;
+  min-height: 95vh;
   display: flex;
+  padding-top: 5rem;
   align-items: center;
+}
+
+.hero-section img{
+    margin-bottom: -8.7rem;
 }
 .footer {
   background-color: #000;
