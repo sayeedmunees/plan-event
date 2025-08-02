@@ -7,6 +7,12 @@ body{
     font-family: "League Spartan", sans-serif;
 }
 
+li{
+  list-style: none;
+}
+
+/* NAVBAR */
+
 .navbar{
     position: fixed;
     background-color: #fff;
@@ -17,6 +23,8 @@ body{
 .navbar a:hover{
     color: #5300b7;
 }
+
+/* HOME PAGE */
 
 h1 {
     font-family: "Montserrat", sans-serif;
@@ -40,6 +48,50 @@ h1 {
 .hero-section img{
     margin-bottom: -8.7rem;
 }
+
+/* ABOUT PAGE */
+
+.about-section{
+  background-color: #5300b7;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.highlight {
+  color: #00d4ff;
+}
+
+.about-text {
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.about-text-right{
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+
+.stat-number {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #00d4ff;
+}
+
+.stat-label {
+  text-transform: uppercase;
+  font-size: 1rem;
+  letter-spacing: 0.5px;
+  max-width: 200px;
+  margin: 0 auto;
+}
+
+/* FOOTER */
+
 .footer {
   background-color: #000;
   color: #fff;
