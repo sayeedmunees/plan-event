@@ -8,7 +8,7 @@
 
 ## 📸 Preview
 
-![Hero Section Preview](./assets/hero-img.png)
+![Hero Section Preview](./assets/preview-img.png)
 
 ---
 
