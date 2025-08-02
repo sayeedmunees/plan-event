@@ -1,6 +1,6 @@
 # 🎉 plan.event
 
-**plan.event** is a modern, responsive single-page website for event planning services, inspired by the elegant design of [BeTheme Event 6](https://themes.muffingroup.com/be/event6/). It's perfect for showcasing your services, introducing your team, and providing easy contact options.
+**plan.event** is a modern single-page website for event planning services, inspired by the elegant design of [BeTheme Event 6](https://themes.muffingroup.com/be/event6/). It's perfect for showcasing your services, introducing your team, and providing easy contact options.
 
 🚀 **Live Preview:** [https://sayeedmunees.github.io/plan-event/](https://sayeedmunees.github.io/plan-event/)
 
