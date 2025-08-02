@@ -25,7 +25,6 @@
 ## ✨ Features
 
 - 📱 **Responsive Design** – Looks great on all devices.
-- 🧭 **Sticky Navbar** – Quick navigation to key sections.
 - 🎯 **Hero Section** – Bold tagline and call-to-action button.
 - 🧾 **About Section** – Brief about the company with styled stats.
 - 📞 **Footer Section** – Contact info, social icons, and links.
