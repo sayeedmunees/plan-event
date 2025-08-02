@@ -16,10 +16,15 @@
 
 plan-event/
 │
+|
 ├── index.html # Main webpage
+|
 ├── style.css # Custom styling
+|
 └── assets/
+
 └── hero-img.png # Hero section image
+
 
 
 ---
