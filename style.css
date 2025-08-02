@@ -20,6 +20,10 @@ li{
     padding-left: 5rem;
 }
 
+.nav-item a{
+  color: #5300b7;
+}
+
 .navbar a:hover{
     color: #5300b7;
 }
